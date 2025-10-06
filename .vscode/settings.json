@@ -1,0 +1,5 @@
+{
+    "go.testFlags": ["-v"],
+    "go.testTimeout": "30s",
+    "go.useLanguageServer": true
+}
